@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Bundle Codebase",
+        "type": "npm",
+        "script": "claude-bundle",
+        "problemMatcher": [],
+        "presentation": {
+          "reveal": "always",
+          "panel": "new"
+        }
+      }
+    ]
+  }
