@@ -1,67 +1,64 @@
 personal:
-  name: Maxime Ameele
-  address: Leuricock 56 8560 Wevelgem
-  phone: "0470 89 83 21"
-  email: maximeameele@gmail.com
-  birthDate: 23/08/2001
-  birthPlace: Menen
-  gender: Man
-  nationality: Belg
-  maritalStatus: Ongehuwd
-  driversLicense: nee
-  hobbies: Gamen, wandelen, airsoft
+  name: John Doe
+  address: 123 Main Street, 1000 Brussels
+  phone: "+32 470 12 34 56"
+  email: john.doe@example.com
+  birthDate: 01/01/1990
+  birthPlace: Brussels
+  gender: Male
+  nationality: Belgian
+  maritalStatus: Single
+  driversLicense: yes
+  hobbies: Reading, Photography, Hiking
 
 education:
-  - period: 2013-2014
-    study: Industriële wetenschap
-    institution: Vti Menen
-  - period: 2014-2015
-    study: Metaal- technische
-    institution: VTI Menen
-  - period: 2015-2016
-    study: Tuinbouw beroep
-    institution: Vabi roeselare
-  - period: 2016-2017
-    study: Tuinbouw beroep
-    institution: Vabi roeselare
-  - period: 2017-2019
-    study: Automechanica Beroep
-    institution: VTI menen
-  - period: 2019-2021
-    study: Maatschappelijke Veiligheid
-    institution: Go Lyceum
+  - period: 2008-2010
+    study: Software Development
+    institution: Technical Institute Brussels
+  - period: 2010-2012
+    study: Web Development
+    institution: Digital Academy Antwerp
+  - period: 2012-2014
+    study: Computer Science
+    institution: University of Brussels
+  - period: 2014-2016
+    study: Full Stack Development
+    institution: Code Academy Ghent
+  - period: 2016-2018
+    study: UI/UX Design
+    institution: Design School Brussels
 
 experience:
-  - company: Fresh 21
-    location: Menen
-    period: najaar 2017
-    duration: ± 1 maand
-    work: Verkoop fijne vleeswaren, vers vlees, broodjes, ...
-  - company: Niels Durnez
-    location: Geluwe
-    period: zomer 2017
-    duration: ± 1 maand
-    work: Tuinaanleg, tuinonderhoud, snoeien, ...
-  - company: Bellewaerde
-    period: zomer/weekends 2018-2020
-    duration: ± 2 jaar
-    work: Horeca
-  - company: Alpro
+  - company: TechStart
+    location: Brussels
+    period: Summer 2018
+    duration: 3 months
+    work: Junior Web Developer, front-end development and UI implementation
+  - company: Digital Solutions
+    location: Antwerp
+    period: 2018-2019
+    duration: 1 year
+    work: Full Stack Developer, building web applications and APIs
+  - company: WebCraft
+    period: 2019-2020
+    duration: 1.5 years
+    work: Senior Frontend Developer, leading UI team
+  - company: InnovateBE
     period: 2020-2022
-    duration: ± 2 jaar
-    work: Productie arbeider (vakantiejob)
-  - company: Yource Moeskroen
-    period: Oktober 2022-Juni 2023
-    duration: 9 maanden
-    work: Administrative/klantendienst voor proximus
+    duration: 2 years
+    work: Technical Team Lead, managing development team
+  - company: Future Tech
+    period: 2022-Present
+    duration: 2 years
+    work: Software Architect, system design and implementation
 
 skills:
-  - In een team werken, ligt me het beste. In de opleiding Automechanica, Maatschappelijke veiligheid, maar ook daarvoor in Tuinbouw, ervaar ik dat het werken in groep me goed ligt. Samen werken, dat doe ik het liefst.
-  - Klanten, collega's en vrienden vertellen me dat ik heel vlot in de omgang ben. Plezier maken met vrienden, na een dagje hard werken (of studeren), geeft me de nodige energie om de volgende dag er vol gas weer tegenaan te gaan.
-  - Mijn opleiding Maatschappelijke veiligheid heeft me een stevige basis geboden in effectieve communicatie, zowel mondeling als schriftelijk.
-  - Mijn eerdere werkervaring bij Yource heeft mijn communicatievaardigheden verder versterkt. In mijn rol als tele-operator was ik verantwoordelijk voor het communiceren met collega's en klanten. Daar leerde ik dan ook administratief te werk te gaan om dat de job ook administratie werk bevatte.
+  - Strong team player with experience in leading development teams across multiple projects. Proven track record of successful project delivery and team collaboration.
+  - Excellent interpersonal skills with a focus on building strong relationships with clients and colleagues. Known for creating positive work environments and fostering team spirit.
+  - Comprehensive training in modern software development methodologies and effective communication, both written and verbal.
+  - Previous experience has strengthened my project management and technical leadership abilities, particularly in coordinating teams and handling complex technical documentation.
 
 languages:
-  Nederlands: 5
-  Engels: 4
-  Frans: 2
+  Dutch: 5
+  English: 4
+  French: 3
