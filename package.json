@@ -1,5 +1,5 @@
 {
-  "name": "cv-maxime",
+  "name": "cv-app",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -7,8 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "claude-bundle": "node scripts/bundle-codebase.js"
+    "lint": "next lint"
   },
   "dependencies": {
     "@types/js-yaml": "^4.0.9",
