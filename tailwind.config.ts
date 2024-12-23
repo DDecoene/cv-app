@@ -16,5 +16,7 @@ const config: Config = {
     },
   },
   plugins: [],
+  // Add important configuration to ensure styles are applied
+  important: true,
 };
 export default config;

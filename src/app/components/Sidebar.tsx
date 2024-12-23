@@ -63,7 +63,7 @@ export default function Sidebar({ personal, languages }: SidebarProps) {
         <div className="mt-4">
           <div className="w-32 h-32 rounded-full overflow-hidden border-4 border-white shadow-lg relative">
             <Image
-              src="/profile_pic_maxime.jpeg"
+              src={process.env.NODE_ENV === 'production' ? '/cv-app/profile_pic.png' : '/profile_pic.png'}
               alt="Profile picture"
               width={128}
               height={128}
