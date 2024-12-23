@@ -40,3 +40,4 @@ yarn-error.log*
 next-env.d.ts
 codebase_bundle.txt
 cpb.config.json
+public/cv-data.production.yaml
