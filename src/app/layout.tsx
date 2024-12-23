@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "CV App",
-  description: "Maximes CV",
+  description: "Your CV",
 };
 
 export default function RootLayout({
