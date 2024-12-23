@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true, // Required for static export
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/your-repo-name' : '', // Replace with your repository name
+  basePath: process.env.NODE_ENV === 'production' ? '/cv-app' : '', // Replace with your repository name
 };
 
 export default nextConfig;
